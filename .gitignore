@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.ipynb_checkpoints/musical_genre_classification-checkpoint.ipynb
+/genres
+/.vs
